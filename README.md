@@ -263,3 +263,5 @@ Thanks for helping improve this project! 🚀 and Feel free to ask questions by 
 - Add new feature (2025/6/14)
 
 - Refactor code (2025/2/17)
+
+- Fix styling issue (2025/2/3)
