@@ -277,3 +277,5 @@ Thanks for helping improve this project! 🚀 and Feel free to ask questions by 
 - Update documentation (2025/5/13)
 
 - Improve performance (2025/5/17)
+
+- Improve performance (2025/2/8)
