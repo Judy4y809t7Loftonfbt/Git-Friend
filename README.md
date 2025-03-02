@@ -285,3 +285,5 @@ Thanks for helping improve this project! 🚀 and Feel free to ask questions by 
 - Update documentation (2025/5/23)
 
 - Update dependencies (2025/2/28)
+
+- Update documentation (2025/3/2)
