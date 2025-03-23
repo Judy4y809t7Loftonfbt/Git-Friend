@@ -303,3 +303,5 @@ Thanks for helping improve this project! 🚀 and Feel free to ask questions by 
 - Update README (2025/5/15)
 
 - Refactor code (2025/5/16)
+
+- Improve performance (2025/3/24)
