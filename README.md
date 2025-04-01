@@ -257,3 +257,5 @@ Thanks for helping improve this project! 🚀 and Feel free to ask questions by 
 - Add new feature (2025/4/3)
 
 - Add unit tests (2025/4/5)
+
+- Update documentation (2025/4/1)
