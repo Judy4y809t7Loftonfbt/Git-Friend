@@ -251,3 +251,5 @@ Thanks for helping improve this project! 🚀 and Feel free to ask questions by 
 - Update documentation (2025/5/19)
 
 - Update documentation (2025/4/5)
+
+- Fix minor bug (2025/4/11)
