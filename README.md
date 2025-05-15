@@ -299,3 +299,5 @@ Thanks for helping improve this project! 🚀 and Feel free to ask questions by 
 - Fix minor bug (2025/6/17)
 
 - Update README (2025/1/28)
+
+- Update README (2025/5/15)
