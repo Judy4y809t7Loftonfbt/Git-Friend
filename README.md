@@ -295,3 +295,5 @@ Thanks for helping improve this project! 🚀 and Feel free to ask questions by 
 - Fix minor bug (2025/3/31)
 
 - Fix styling issue (2025/6/6)
+
+- Fix minor bug (2025/6/17)
