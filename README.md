@@ -43,6 +43,7 @@ GitFriend simplifies your GitHub workflows and allows you to focus on what matte
 - **Gitmoji Support**: Easily add expressive emojis to your commit messages following the Gitmoji convention.
 - **User-friendly Interface**: Intuitive UI that makes navigation and usage a breeze.
 - **React Components**: Utilizes various React components for interactive and responsive user experience.
+- **吵架包赢**: 输入对方的话，调用 DeepSeek V3 一键生成 3 条高能回击，支持 10 档语气强度调节。
 
 ## 🗺️ Roadmap
 
@@ -122,6 +123,16 @@ NEXT_PUBLIC_FIREBASE_APP_ID=your_firebase_app_id
 FIREBASE_PRIVATE_KEY=your_firebase_private_key
 FIREBASE_CLIENT_EMAIL=your_firebase_client_email
 ```
+</details>
+
+<details>
+<summary> 🤖 OpenRouter · DeepSeek V3</summary>
+
+```env
+# Required for 吵架包赢功能
+OPENROUTER_API_KEY=your_openrouter_api_key
+```
+
 </details>
 
 <details>
